@@ -1,6 +1,6 @@
-This repository includes all the Projects which I've done on the AWS Platform.
+This repository includes all the Projects which I've done on the Microsoft Azure Platform.
 
-Below is the list of the Projects (Labs):
+Follow the below sequence of the Projects to implement Azure Architectures.
 
 1. Introduction to Azure Virtual Machines Service
 
